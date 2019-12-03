@@ -1,0 +1,5 @@
+C:\Users\administrator\Documents\Обучение C#\Homework\lesson2\Homework05\Homework2_5\bin\Debug\Homework2_5.exe.config
+C:\Users\administrator\Documents\Обучение C#\Homework\lesson2\Homework05\Homework2_5\bin\Debug\Homework2_5.exe
+C:\Users\administrator\Documents\Обучение C#\Homework\lesson2\Homework05\Homework2_5\bin\Debug\Homework2_5.pdb
+C:\Users\administrator\Documents\Обучение C#\Homework\lesson2\Homework05\Homework2_5\obj\Debug\Homework2_5.exe
+C:\Users\administrator\Documents\Обучение C#\Homework\lesson2\Homework05\Homework2_5\obj\Debug\Homework2_5.pdb
