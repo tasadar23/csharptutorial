@@ -1,0 +1,6 @@
+C:\Users\administrator\Documents\Обучение C#\Homework\lesson2\Homework06\Homework2_6\bin\Debug\Homework2_6.exe.config
+C:\Users\administrator\Documents\Обучение C#\Homework\lesson2\Homework06\Homework2_6\bin\Debug\Homework2_6.exe
+C:\Users\administrator\Documents\Обучение C#\Homework\lesson2\Homework06\Homework2_6\bin\Debug\Homework2_6.pdb
+C:\Users\administrator\Documents\Обучение C#\Homework\lesson2\Homework06\Homework2_6\obj\Debug\Homework2_6.csprojAssemblyReference.cache
+C:\Users\administrator\Documents\Обучение C#\Homework\lesson2\Homework06\Homework2_6\obj\Debug\Homework2_6.exe
+C:\Users\administrator\Documents\Обучение C#\Homework\lesson2\Homework06\Homework2_6\obj\Debug\Homework2_6.pdb
